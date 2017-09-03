@@ -1,0 +1,8 @@
+# My_idea_and_game
+    Idea is there will be a player and a bot.
+    Both will play a snake game usually.
+    Rules:: 1) player should not eat bot's food and bot will not eat player's food.
+                if player eats bot's food , it's body will loose 2 balls.
+            2) player should not touch bot's body nor even bot should touch player's body.
+                if touched then who touches others body will be out.
+            3) player wins if one of them gets double size the other.
